@@ -4,11 +4,7 @@ A modern Full Stack Expense Tracker built with React.js and Django REST Framewor
 
 ## 🚀 Live Demo
 
-Frontend:
 https://expensetracker-iumj.onrender.com
-
-Backend API:
-https://expensetracker-backend-sa1m.onrender.com
 
 ## ✨ Features
 
